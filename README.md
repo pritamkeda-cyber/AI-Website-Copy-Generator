@@ -108,7 +108,7 @@ Human review is required before publishing any generated content for a real busi
 
 The Coffee Corner demo website was created using Lovable.
 
-**Live Website:** Add your published Lovable website URL here.
+**Live Website:** https://coffee-corner-demo.lovable.app.
 
 ## Project Outcome
 
